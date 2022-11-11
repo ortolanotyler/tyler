@@ -15,11 +15,8 @@ a = (// buy/sellboolean// ) === true
   b = (// pdtcalcboolean)&&(mktopenboolean //) === true
    c = is fundamentally likely to go this next week === true
      d = is technically good to go === true
-        e = red flag eliminator === true
-    d = is fundamentally likely to go
-     e = red flag eliminator 
-      f = 
-      
+        e = !== redFlag
+          f = 
   
   
   
@@ -44,7 +41,7 @@ a = (// buy/sellboolean// ) === true
      
      
      
-   i = [// stock name //]
+   i = [// heat map //]
           i = [// stock name //]
             i = [// stock name //]
               i = [// stock name //]
